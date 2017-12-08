@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Akskus
+    </title>
+        <link rel="icon" href="../static/images/logo.png">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <script src="../static/references/jquery.min.js"></script>
+        <link rel="stylesheet" href="../static/references/bootstrap-3.3.6-dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="../static/css/log_and_signup.css">
+        <script src="../static/references/bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Poiret+One" rel="stylesheet">
+        <script type="text/javascript">
+        $(window).resize(
+                function () {
+                   var k= $(window).height();
+                   $('#cont-full').css('height',k );
+                }
+        )
+        </script>
+
+</head>
+<body>
+<div id="cont-full" class="" >
+ <div id="container" class="container-fluid">
+        <div class="navbar navbar-inverse" >
+            <div class="navbar-header" style="float: none;padding-right: 2%;">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#hide_small">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+               <img src="../static/images/logo.png" class="navbar-brand">
+
+                <div class="adjust" id="id_pass" style="float: right" >
+
+                <form class=" form-inline" role="form">
+
+                <label for="id"  class="lab">
+                    <span class="glyphicon glyphicon-user adjust" ></span>
+                    Id
+                </label>
+                <input type="text" id="id" class="form-control">
+                    <label for="pass" class="lab">
+                    Password
+                </label>
+                <input type="password" id="pass" class="form-control">
+                </form>
+
+                </div>
+
+            </div>
+            <div id="hide_small">
+
+            </div>
+
+        </div>
+
+    </div>
+
+<br/>
+<div class="container-fluid">
+    <div class="row">
+    <div class="col-sm-7">
+        <img src="../static/images/friends.png" class="img-responsive" style="width: 550px;" id="side">
+        </div>
+    <div class="col-sm-5">
+    <div class="row">
+        <div class="form-group ">
+        <label class="col-sm-3 control-label" for="input_name" style="font-size: 20px">Name</label>
+        <div class="col-sm-9">
+        <input type="text" class="form-control  input-lg" id="input_name" placeholder="Name" style="font-family: 'Poiret One', cursive;">
+        <span class="glyphicon glyphicon-phone-alt form-control-feedback glyphicon_adjustment"></span>
+        </div>
+    </div>
+        </div>
+    <br>
+    <div class="row">
+        <div class="form-group ">
+        <label class="col-sm-3 control-label" for="input_email" style="font-size: 20px">Email</label>
+        <div class="col-sm-9">
+        <input type="text" class="form-control input-lg" id="input_email" placeholder="Name">
+        <span class="glyphicon glyphicon-envelope form-control-feedback glyphicon_adjustment"></span>
+        </div>
+
+    </div>
+    </div>
+    <br>
+
+    <div class="row">
+        <div class="form-group ">
+        <label class="col-sm-3 control-label" for="input_phone" style="font-size: 20px">Mobile</label>
+        <div class="col-sm-9">
+        <input type="text" class="form-control input-lg" id="input_phone" placeholder="Name">
+        <span class="glyphicon glyphicon-earphone form-control-feedback glyphicon_adjustment"></span>
+      </div>
+
+        </div>
+  </div>
+    <br>
+    <div class="row">
+        <div class="form-group ">
+        <label class="col-sm-3 control-label" for="input_pass" style="font-size: 20px">Password</label>
+        <div class="col-sm-9">
+        <input type="password" class="form-control input-lg" id="input_pass" placeholder="Name">
+        <span class="glyphicon glyphicon-earphone form-control-feedback glyphicon_adjustment"></span>
+        </div>
+
+    </div>
+  </div>
+    <br>
+    <div class="row">
+        <div class="form-group ">
+        <div class="col-sm-1"></div>
+        <div class="col-sm-4">
+
+        <input type="button" class="form-control btn-primary" id="input_submit" value="Submit">
+
+            </div>
+        <div class="col-sm-offset-10"></div>
+
+    </div>
+  </div>
+ </div>
+    </div>
+    </div>
+    </div>
+
+</body>
+
+</html>

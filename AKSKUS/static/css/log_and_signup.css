@@ -1,0 +1,40 @@
+.lab{
+    color: whitesmoke;
+}
+.navbar-brand {
+    height: 100px;
+}
+.navbar {
+    border-radius: 0px;
+    background-image: linear-gradient(#403a36, rgba(113, 113, 113, 0.76) 40%);
+    border: solid 1px #828282;
+    margin-bottom: 0px;
+}
+
+
+.glyphicon-user {
+    font-size: 40px;
+    cursor: pointer;
+    border: solid 1px white;
+    padding: 5px;
+
+    top: 10px;
+    color: orangered;
+}
+#container {
+    padding-right: 0;
+    padding-left: 0;
+}
+.body{
+
+        background: rgba(0, 0, 0, 0.07);
+}
+#cont-full{
+    background-image: url(../images/back.jpg) ;
+    max-height: 100%;
+    max-width: 100%;
+
+}
+.glyphicon_adjustment {
+    right: 10px;
+}

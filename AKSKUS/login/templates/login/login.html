@@ -1,0 +1,60 @@
+
+<html lang="en">
+	<head>
+		<link rel="icon" href="images/logo.png">
+		<link rel="stylesheet" href="css/login.css">
+		<title>
+			AKSKUS
+		</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="bootstrap-3.3.6-dist/css/bootstrap.min.css">
+        <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
+        <style></style>
+        <script src="{{ STATIC_URL }} /static/jquery-3.0.0.min.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function () {
+        $('#button').click(function () {
+            $('#progress').html('tp done')
+        })
+            });
+
+        </script>
+	</head>
+	<body>
+
+        <div id="all" class="container">
+            <div id="top" class="top">
+                <br>
+
+                <div id="login" class="login">
+                    <div class="container">
+                          <ul class="pager">
+                            <li  class="previous"><a href="#" >previous</a></li>
+                            <li><a href="#" class="previous">2</a></li>
+                            <li><a href="#" class="previous" >3</a></li>
+                            <li><a href="#" class="next">4</a></li>
+                            <li  class="next"><a href="#" class="next">next</a></li>
+                          </ul>
+                    </div>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" style="width: 70%" id="progress">
+                                                            ajay
+                        </div>
+                    </div>
+                    <p>
+                    <label for="id">ID</label>
+                    <input type="text" id="id">
+                    <label for="pass" >Password</label>
+                    <input type="password" id="pass">
+                    <input type="button" id="button" value="click me">
+                    </p>
+
+                </div>
+             </div>
+        </div>
+
+
+	</body>
+
+</html>
