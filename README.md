@@ -1,2 +1,2 @@
-![] (https://i.imgur.com/OLDKJ95.png)
+![](https://i.imgur.com/OLDKJ95.png)
 # Akskus
