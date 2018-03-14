@@ -3,7 +3,7 @@ from django.db import models
 
 class UserPost(models.Model):
     name=models.CharField(max_length=30)
-    mob_num=models.IntegerField(max_length=10)
+    mob_num=models.IntegerField()
     email=models.CharField(max_length=25)
     password = models.CharField(max_length=25)
     def __str__(self):
