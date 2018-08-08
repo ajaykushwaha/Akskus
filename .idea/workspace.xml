@@ -2,37 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f94618f7-52c2-4315-9224-07e2ad8e0738" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/mail/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/mail/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/mail/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/mail/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/mail/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/mail/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/mail/views.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/.idea/live_search.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/db.sqlite3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/live_search/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/live_search/settings.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/live_search/urls.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/live_search/wsgi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/admin.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/apps.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/migrations/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/models.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/templates/lsearch/list.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/templates/lsearch/templates.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/lsearch/views.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/live_search/manage.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/fin00akskus.iml" afterPath="$PROJECT_DIR$/.idea/fin00akskus.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/images/about-img.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/images/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/images/modal-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/images/pregnant-hero.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/images/slide-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/images/slide-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/home/templates/my_home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/login/static/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/login/static/css/et-line-font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/login/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/login/static/css/vegas.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/login/templates/login/pass_show_hide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/css/animate.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/css/et-line-font.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/css/vegas.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/bootstrap-3.3.6-dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/static/references/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AKSKUS/start/urls.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AKSKUS/login/templates/login/login.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/AKSKUS/login/templates/login/result.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AKSKUS/login/static/css/log_and_signup.css" afterPath="$PROJECT_DIR$/AKSKUS/login/static/css/log_and_signup.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AKSKUS/login/templates/login/log_and_signup.html" afterPath="$PROJECT_DIR$/AKSKUS/login/templates/login/log_and_signup.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AKSKUS/login/urls.py" afterPath="$PROJECT_DIR$/AKSKUS/login/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AKSKUS/login/views.py" afterPath="$PROJECT_DIR$/AKSKUS/login/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AKSKUS/manage.py" afterPath="$PROJECT_DIR$/AKSKUS/manage.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/fin00akskus.iml" afterPath="$PROJECT_DIR$/.idea/A_SHE.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/__init__.py" afterPath="$PROJECT_DIR$/AKSKUS/a_she/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/admin.py" afterPath="$PROJECT_DIR$/AKSKUS/home/admin.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/apps.py" afterPath="$PROJECT_DIR$/AKSKUS/home/apps.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/migrations/0001_initial.py" afterPath="$PROJECT_DIR$/AKSKUS/home/migrations/0001_initial.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/migrations/__init__.py" afterPath="$PROJECT_DIR$/AKSKUS/home/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/models.py" afterPath="$PROJECT_DIR$/AKSKUS/home/models.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/css/home.css" afterPath="$PROJECT_DIR$/AKSKUS/home/static/css/home.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/css/log_and_signup.css" afterPath="$PROJECT_DIR$/AKSKUS/home/static/css/log_and_signup.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/images/back.jpg" afterPath="$PROJECT_DIR$/AKSKUS/home/static/images/back.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/images/friends.png" afterPath="$PROJECT_DIR$/AKSKUS/home/static/images/friends.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/images/logo.png" afterPath="$PROJECT_DIR$/AKSKUS/home/static/images/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/images/mustaches dp.jpg" afterPath="$PROJECT_DIR$/AKSKUS/home/static/images/mustaches dp.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/css/bootstrap-theme.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/css/bootstrap.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/css/bootstrap.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/css/bootstrap.min.css.map" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/js/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/bootstrap-3.3.6-dist/js/npm.js" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/bootstrap-3.3.6-dist/js/npm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/static/references/jquery.min.js" afterPath="$PROJECT_DIR$/AKSKUS/home/static/references/jquery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/templates/akskus/home.html" afterPath="$PROJECT_DIR$/AKSKUS/home/templates/home.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/tests.py" afterPath="$PROJECT_DIR$/AKSKUS/home/tests.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/urls.py" afterPath="$PROJECT_DIR$/AKSKUS/home/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/akskus/views.py" afterPath="$PROJECT_DIR$/AKSKUS/home/views.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/fin00akskus/__init__.py" afterPath="$PROJECT_DIR$/AKSKUS/home/migrations/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/fin00akskus/settings.py" afterPath="$PROJECT_DIR$/AKSKUS/a_she/settings.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/fin00akskus/urls.py" afterPath="$PROJECT_DIR$/AKSKUS/a_she/urls.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/AKSKUS/fin00akskus/wsgi.py" afterPath="$PROJECT_DIR$/AKSKUS/a_she/wsgi.py" />
     </list>
     <ignored path="fin00akskus.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,14 +119,59 @@
     <favorites_list name="fin00akskus" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AKSKUS/login/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log_and_signup.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/log_and_signup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="49" column="88" selection-start-line="49" selection-start-column="88" selection-end-line="49" selection-end-column="88" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Loggedin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/Loggedin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AKSKUS/login/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -102,8 +200,6 @@
         <option value="$PROJECT_DIR$/AKSKUS/pass.txt" />
         <option value="$PROJECT_DIR$/AKSKUS/akskus/templates/urls.py" />
         <option value="$PROJECT_DIR$/AKSKUS/akskus/urls.py" />
-        <option value="$PROJECT_DIR$/AKSKUS/login/views.py" />
-        <option value="$PROJECT_DIR$/AKSKUS/login/templates/login/log_and_signup.html" />
         <option value="$PROJECT_DIR$/AKSKUS/login/templates/login/result.html" />
         <option value="$PROJECT_DIR$/AKSKUS/akskus/views.py" />
         <option value="$PROJECT_DIR$/live_search/live_search/urls.py" />
@@ -112,10 +208,30 @@
         <option value="$PROJECT_DIR$/AKSKUS/akskus/templates/akskus/home.html" />
         <option value="$PROJECT_DIR$/AKSKUS/mail/url.py" />
         <option value="$PROJECT_DIR$/AKSKUS/fin00akskus/urls.py" />
-        <option value="$PROJECT_DIR$/AKSKUS/login/urls.py" />
         <option value="$PROJECT_DIR$/AKSKUS/mail/urls.py" />
         <option value="$PROJECT_DIR$/AKSKUS/fin00akskus/settings.py" />
         <option value="$PROJECT_DIR$/AKSKUS/mail/views.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/manage.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/home/models.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/home/admin.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/home/apps.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/a_she/settings.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/start/static/references/custom.js" />
+        <option value="$PROJECT_DIR$/AKSKUS/home/views.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/a_she/urls.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/start/urls.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/start/views.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/login/templates/login/pass_show_hide.html" />
+        <option value="$PROJECT_DIR$/AKSKUS/login/static/css/log_and_signup.css" />
+        <option value="$PROJECT_DIR$/AKSKUS/start/static/css/style.css" />
+        <option value="$PROJECT_DIR$/AKSKUS/start/templates/index.html" />
+        <option value="$PROJECT_DIR$/AKSKUS/login/forms.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/home/urls.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/login/templates/login/Loggedin.html" />
+        <option value="$PROJECT_DIR$/list_reminders.txt" />
+        <option value="$PROJECT_DIR$/AKSKUS/login/urls.py" />
+        <option value="$PROJECT_DIR$/AKSKUS/login/templates/login/log_and_signup.html" />
+        <option value="$PROJECT_DIR$/AKSKUS/login/views.py" />
       </list>
     </option>
   </component>
@@ -131,6 +247,25 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyUnresolvedReferencesInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -138,7 +273,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -156,18 +291,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemId" value="A_SHE" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemId" value="A_SHE" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -177,7 +311,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemId" value="A_SHE" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -186,11 +320,122 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A_SHE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A_SHE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A_SHE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A_SHE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="login" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A_SHE" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AKSKUS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="a_she" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -201,21 +446,22 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Study_only\Learning_craze_projects\AKSKUS\AKSKUS\home" />
-      <recent name="D:\Study_only\Learning_craze_projects\AKSKUS\AKSKUS\home\static" />
-      <recent name="D:\ajay\akskuss\AKSKUS\AKSKUS\login" />
-      <recent name="D:\ajay\akskuss\AKSKUS\AKSKUS\akskus" />
-      <recent name="D:\ajay\akskuss\AKSKUS\AKSKUS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Study_only\Learning_craze_projects\AKSKUS\AKSKUS\home" />
-      <recent name="D:\ajay\akskuss\AKSKUS\AKSKUS\login\templates\login" />
-      <recent name="D:\ajay\akskuss\AKSKUS\AKSKUS\akskus" />
-      <recent name="D:\ajay\akskuss\AKSKUS\AKSKUS\static\images" />
-      <recent name="D:\ajay\akskuss\AKSKUS\AKSKUS\templates" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\start\static\images" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\login\templates\login" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\login\templates" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\home\templates" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\akskus\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\login\static\images" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\start\static\images" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\login\static\css" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\start\static\css" />
+      <recent name="D:\Study_only\official_projects\Sem-4\AKSKUS\AKSKUS\start\templates" />
     </key>
   </component>
   <component name="RunManager" selected="Django tests.Test: login">
@@ -517,6 +763,14 @@
       <option name="presentableId" value="Default" />
       <updated>1468389704779</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added a mail message&#10;">
+      <created>1521035225140</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1521035225140</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -537,25 +791,45 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2549168" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32636657" sideWeight="0.5030257" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="330" y="67" width="384" height="690" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5030257" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32189542" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1762481" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.42389524" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" x="171" y="3" width="1135" height="657" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32189542" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1762481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.6972177" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" x="196" y="244" width="1041" height="426" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5030257" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32189542" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="WINDOWED" visible="true" show_stripe_button="true" weight="1.0" sideWeight="0.4969743" order="10" side_tool="false" content_ui="tabs" x="276" y="-3" width="1067" height="719" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33055976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" x="330" y="67" width="384" height="690" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1762481" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -574,221 +848,252 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/AKSKUS/start/views.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AKSKUS/manage.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/static/css/home.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/__init__.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/static/images/back.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/static/images/mustaches dp.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/tests.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/fin00akskus/settings.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/login/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/manage.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/__init__.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/static/css/home.css" />
+    <entry file="file://$PROJECT_DIR$/AKSKUS/a_she/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/views.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        <state relative-caret-position="186">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/tests.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/migrations/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/models.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        <state relative-caret-position="102">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/fin00akskus/settings.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/apps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AKSKUS/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/references/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/templates/my_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/login.html">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/a_she/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="uml://DjangoModelDependency/#fin00akskus">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DjangoModelDependency</ID>
-          <OriginalElement>#fin00akskus</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="440.0" y="278.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/login.html" />
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/result.html" />
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/pass_show_hide.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/live_search/lsearch/templates/lsearch/list.html" />
-    <entry file="file://$PROJECT_DIR$/live_search/lsearch/templates/lsearch/templates.html" />
-    <entry file="file://$PROJECT_DIR$/live_search/live_search/urls.py" />
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/static/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/static/css/log_and_signup.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/AKSKUS/pass.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/images/slide-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/home/views.py" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/home/tests.py" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/home/models.py" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/home/apps.py" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/home/admin.py" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/home/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/templates/log_and_signup.html" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/home/static/static/css/home.css" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/templates/pass_show_hide.html" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/templates/home.html" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/home/static/css/home.css" />
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/static/css/log_and_signup.css">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/images/slide-2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/images/transparent_logo_400x400.png" />
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/images/pregnant-hero.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/images/about-img.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/references/wow.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/static/css/home.css">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/references/vegas.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/views.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/references/smoothscroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/references/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/images/modal-bg.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/images/slide-1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/images/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="385" column="14" selection-start-line="385" selection-start-column="14" selection-end-line="385" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/templates/akskus/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/log_and_signup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -799,66 +1104,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/login/apps.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/mail/admin.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/home/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/login/views.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/start/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="51">
+          <caret line="5" column="9" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/fin00akskus/urls.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/mail/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AKSKUS/login/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="68">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/akskus/urls.py">
+    <entry file="file://$PROJECT_DIR$/list_reminders.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/fin00akskus/settings.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/a_she/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="333">
+          <caret line="57" column="53" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AKSKUS/mail/views.py">
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/log_and_signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="88" selection-start-line="49" selection-start-column="88" selection-end-line="49" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/templates/login/Loggedin.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AKSKUS/login/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

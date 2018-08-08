@@ -1,0 +1,8 @@
+Run a mongo database
+
+mongod --dbpath=D:/Study_only/official_projects/Sem-4/AKSKUS/AKSKUS/database
+
+mongo
+
+
+D:/Study_only/official_projects/Sem-4/AKSKUS/AKSKUS/database

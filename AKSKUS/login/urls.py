@@ -1,9 +1,12 @@
 from django.conf.urls import url
 from . import views
-app_name='login'
-urlpatterns = {
+from django.views.generic import TemplateView
 
-    url(r'^$', views.login, name="login"),
+app_name = 'login'
+urlpatterns = [
+    url(r'^login/$',views.login_in,name='login'),
+    url(r'$', TemplateView.as_view(template_name='login/log_and_signup.html')),
 
-    url(r'^(?P<ida>[a-z]+)$', views.idcheck, name='id'),
-}
+
+    #url(r'^(?P<ida>[a-z]+)$', views.idcheck, name='id'),
+]
